@@ -1,0 +1,4 @@
+repository "CS576_final@lightimexgs@cloud"
+  path "/"
+    br "/main"
+    co "/main"
